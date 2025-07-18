@@ -15,6 +15,7 @@ Health Premium Prediction is a predictive model to estimate health insurance pre
 - **main.py and prediction_helper.py**: Contains Streamlit and model prediction code.
 - **notebooks and artifacts folder**: Contains all the jupyter notebook and required data. 
 - **requirements.txt**: Lists the required Python packages.
+- **artifact folder**: Contains the exported model as joblib file
 
 
 ## Setup Instructions
