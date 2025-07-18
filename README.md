@@ -22,7 +22,7 @@ Health Premium Prediction is a predictive model to estimate health insurance pre
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Himanshu-b20/Expense-Tracking-System.git
+     git clone https://github.com/Himanshu-b20/ML-Health-Premium-Prediction.git
    ```
 2. **Install dependencies:**:   
    ```commandline
