@@ -1,6 +1,6 @@
-# ML Health Premium Prediction
+# ML Health Insurance Premium Prediction
 
-Health Premium Prediction is a predictive model to estimate health insurance premiums based on factors like age, smoking habits, BMI, and medical history. The objective of this project is :
+Health Insurance Premium Prediction is a predictive model to estimate health insurance premiums based on factors like age, smoking habits, BMI, and medical history. The objective of this project is :
 - Developed a high-accuracy (>97%) premium prediction model by using model segmentation approach.
 - Create an interactive Streamlit application that an underwriter can use for predictions and deploy it on Streamlit Cloud.
 
