@@ -31,9 +31,9 @@ Health Insurance Premium Prediction is a predictive model to estimate health ins
 3. **Run the Streamlit app:**:   
    ```commandline
     streamlit run /main.py
+   ```
 
 ## Streamlit UI
 
 <img width="1728" height="1121" alt="image" src="https://github.com/user-attachments/assets/4c0da0b7-dcc7-4c00-b58b-4970cfcb6e10" />
 
-   ```
